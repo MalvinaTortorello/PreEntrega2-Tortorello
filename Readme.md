@@ -1,0 +1,1 @@
+Biblioteca creada con Javascript, con métodos para agregar, modificar, eliminar libros, y ver el inventario completo.
